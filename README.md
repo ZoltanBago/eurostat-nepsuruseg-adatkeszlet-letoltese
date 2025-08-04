@@ -1,4 +1,4 @@
-# Eurostat Population Density
+# eurostat-nepsuruseg
 
 Az Eurostat, population density, vagyis a népsűrűség nevű adatbázisának a letöltése a Python Pandas és a Pandasdmx segítségével.
 
