@@ -1,8 +1,8 @@
-# eurostat-nepsuruseg
+# Eurostat népsűrűség
 
-Az Eurostat, population density, vagyis a népsűrűség nevű adatbázisának a letöltése a Python Pandas és a Pandasdmx segítségével.
+Az Eurostat, population density, vagyis a népsűrűség nevű adatkészletének letöltése a Python Pandas és a Pandasdmx segítségével.
 
-A kód Pythonban íródott és egy adatbázis letöltését mutatja be, amely eredetileg SDMX formátumban található meg az Eurostat-ban.
+A kód Pythonban íródott és egy adatkészlet letöltését mutatja be, amely eredetileg SDMX formátumban található meg az Eurostat-on.
 
 A kódoldás során a Jupyter Notebook-ot alkalmaztam és a SDMX formátumot átalakítottam pandas DataFrame-be, majd ezt egy csv fájlba mentettem.
 
