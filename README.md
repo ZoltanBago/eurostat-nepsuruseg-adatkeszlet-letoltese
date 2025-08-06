@@ -2,6 +2,9 @@
 
 Az Eurostat, population density, vagyis a népsűrűség nevű adatkészletének letöltése a Python Pandas és a Pandasdmx segítségével.
 
+![eu](european_union.jpg)
+*Fotó: pixabay.com*
+
 A kód Pythonban íródott és egy adatkészlet letöltését mutatja be, amely eredetileg SDMX formátumban található meg az Eurostat-on.
 
 A kódoldás során a Jupyter Notebook-ot alkalmaztam és a SDMX formátumot átalakítottam pandas DataFrame-be, majd ezt egy csv fájlba mentettem.
