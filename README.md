@@ -1,4 +1,4 @@
-# Eurostat népsűrűség
+# Eurostat népsűrűség adatkészlet letöltése
 
 Az Eurostat, population density, vagyis a népsűrűség nevű adatkészletének letöltése a Python Pandas és a Pandasdmx segítségével.
 
