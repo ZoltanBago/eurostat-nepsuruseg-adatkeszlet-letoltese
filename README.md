@@ -16,6 +16,7 @@ https://ec.europa.eu/eurostat/databrowser/view/tps00003/default/table?lang=en&ca
 ## Licenc
 
 Ez a projekt a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) licenc alatt érhető el.  
+
 Szabadon másolható, tanulmányozható és módosítható **nem kereskedelmi célra**, a szerző (Bagó Zoltán) nevének feltüntetése mellett.
 
 Kereskedelmi felhasználás esetén külön engedély szükséges.
